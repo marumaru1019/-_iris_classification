@@ -20,4 +20,8 @@ Epoch 3/20
 ・
 ```  
 
-と学習が進み、
+と学習が進み、  
+
+<img src="https://user-images.githubusercontent.com/70362624/93015308-6b0b9280-f5f3-11ea-836f-384eb3bc9d1b.png" width="80%">  
+<img src="https://user-images.githubusercontent.com/70362624/93015310-6d6dec80-f5f3-11ea-9b4a-bbf8c0002f50.png" width="80%">  
+と表示されるはずです。
