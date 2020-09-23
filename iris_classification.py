@@ -88,7 +88,7 @@ def main():
     iris_pre = iris_predict(X_test,y_test,iris_history,model)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  #他のファイルでimportされないようにする
     main()
 
 
